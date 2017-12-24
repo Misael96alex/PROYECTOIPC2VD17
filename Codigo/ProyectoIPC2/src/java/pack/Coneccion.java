@@ -10,7 +10,7 @@ public class Coneccion {
     public Coneccion() throws ClassNotFoundException, SQLException{
         try {
             Class.forName("org.mariadb.jdbc.Driver");
-            conexion = DriverManager.getConnection("jdbc:mariadb://localhost3306/proyecto?user=root?password=misael96");
+            conexion = DriverManager.getConnection("jdbc:mariadb://localhost:3306/Proyecto?user=root&password=misael96");
             java.sql.Statement s= conexion.createStatement();
             
         } catch (ClassNotFoundException | SQLException e) {
