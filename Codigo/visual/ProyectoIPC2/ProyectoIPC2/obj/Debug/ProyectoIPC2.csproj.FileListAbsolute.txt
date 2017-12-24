@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\bin\ProyectoIPC2.dll.config
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\bin\ProyectoIPC2.dll
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\bin\ProyectoIPC2.pdb
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\obj\Debug\ProyectoIPC2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\obj\Debug\ProyectoIPC2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\obj\Debug\ProyectoIPC2.dll
+C:\Users\Alex\Documents\PROYECTOIPC2VD17\Codigo\visual\ProyectoIPC2\ProyectoIPC2\obj\Debug\ProyectoIPC2.pdb
